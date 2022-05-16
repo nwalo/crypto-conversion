@@ -1,0 +1,61 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Roboto Mono', monospace;
+}
+ul{
+    list-style: none;
+    display: flex;
+}
+
+a{
+    color: #149b3d;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+li{
+    margin: 20px 15px;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+
+header{
+    /* width: 100%; */
+    padding: 74px;
+    background-color: #149b3d;
+    text-align: center;
+}
+
+.cent{
+    width: 50%;
+    margin: 0 auto;
+}
+
+.m{
+    color: #149b3d;
+}
+
+select{
+    width: 80px;
+    height: 45px;
+    margin-right: 70px;
+}
+
+button{
+    padding: 10px;
+    text-align: center;
+}
+
+.lex{
+    display: flex;
+    justify-content: center;
+}
+
+input{
+    width: 60px;
+    height: 22px;
+    padding: 10px;
+}
